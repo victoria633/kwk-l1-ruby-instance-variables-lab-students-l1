@@ -11,4 +11,5 @@ group_name = {
   #call the SECOND person FIRST FAVORITE song 
   puts group_name[:braelyn][0]
   puts group_name[:delaney][0]
+puts group_name[:victoria][0]
   
