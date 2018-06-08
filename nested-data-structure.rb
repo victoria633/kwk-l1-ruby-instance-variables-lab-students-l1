@@ -2,7 +2,7 @@
 
 #CREAT A HASH
 
-group_name {
+group_name = {
   :victoria => ["life of the party","september", "Ain't gona die tonight"],
   :braelyn => ["mine","bad at love","mad world"],
   :delaney => ["sunflower","all the lights","loving is easy"],
